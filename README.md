@@ -1,13 +1,8 @@
 ### Hi there 👋
 
+# **My name is Alexander Constantinou and this is my read me page**
 <!--
 **AlexC079/AlexC079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# **My name is Alexander Constantinou and this is my read me page**
-
-
-
-
 
 Here are some ideas to get you started:
 
