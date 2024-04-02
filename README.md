@@ -11,7 +11,7 @@ I am currently learning how to become a software developer and have had lessons 
 -  Using Github and local repositories
 
 A husky is one of my favourite types of dogs
-![image of a 2 husky dogs.](https://github.com/AlexC079/AlexC079/Husky%20Picture.jfif
+![image of a 2 husky dogs.](https://github.com/AlexC079/AlexC079/blob/main/Husky%20Picture.jfif)
 
 <!--
 **AlexC079/AlexC079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
