@@ -1,6 +1,19 @@
 ### Hi there 👋
 
+
 # **My name is Alexander Constantinou and this is my read me page**
+
+I am currently learning how to become a software developer and have had lessons on the following ✔️
+-  Types of data
+-  Manipulating data
+-  for and while loops
+-  Using the terminal
+-  Using Github and local repositories
+
+A husky is one of my favourite types of dogs
+
+
+
 <!--
 **AlexC079/AlexC079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
